@@ -4,8 +4,6 @@ title: Impressum
 permalink: /about/
 ---
 
-# Impressum
-
 ### Anschrift:
 
 Christian-Albrechts-Universität zu Kiel
