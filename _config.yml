@@ -23,7 +23,7 @@ email: mail@uni-kiel.de
 description: >- # this means to ignore newlines until "baseurl:"
   Die Christian-Albrechts-Universität zu Kiel (CAU)
   ist die einzige Volluniversität in Schleswig-Holstein.
-  Wir sind zur Zeit von einer größeren TI-Störung betroffen. Hier informieren wir über
+  Wir sind zur Zeit von einer größeren IT-Störung betroffen. Hier informieren wir über
   den Stand der Arbeiten.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.uni-kiel.de" # the base hostname & protocol for your site, e.g. http://example.com
